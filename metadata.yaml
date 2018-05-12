@@ -24,6 +24,8 @@ creator:
     wikipedia: http://en.wikipedia.org/wiki/Pierre_Souvestre
 description: 'Vol. 1: Le train perdu ; Les amours d''un prince ; le bouquet tragique
   ; Le jockey masqué'
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/27794#Fant-mas
 gutenberg_issued: '2009-01-13'
 gutenberg_type: Text
 identifiers:
